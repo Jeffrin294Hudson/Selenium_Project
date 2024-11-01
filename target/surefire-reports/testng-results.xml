@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-10-08T00:19:36 IST" name="Suite" finished-at="2024-10-08T00:20:05 IST" duration-ms="28759">
+    <groups>
+    </groups>
+    <test started-at="2024-10-08T00:19:36 IST" name="Test" finished-at="2024-10-08T00:20:05 IST" duration-ms="28759">
+      <class name="Guru99TestPackage.TC_HomepageTitleCheck">
+        <test-method is-config="true" signature="initTest()[pri:0, instance:Guru99TestPackage.TC_HomepageTitleCheck@1fe20588]" started-at="2024-10-08T00:19:42 IST" name="initTest" finished-at="2024-10-08T00:19:46 IST" duration-ms="3823" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initTest -->
+        <test-method signature="TC_4_HomePageTitleCheck()[pri:0, instance:Guru99TestPackage.TC_HomepageTitleCheck@1fe20588]" started-at="2024-10-08T00:19:46 IST" name="TC_4_HomePageTitleCheck" finished-at="2024-10-08T00:19:47 IST" duration-ms="997" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_4_HomePageTitleCheck -->
+        <test-method is-config="true" signature="cleanUpTest()[pri:0, instance:Guru99TestPackage.TC_HomepageTitleCheck@1fe20588]" started-at="2024-10-08T00:19:47 IST" name="cleanUpTest" finished-at="2024-10-08T00:19:47 IST" duration-ms="93" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUpTest -->
+      </class> <!-- Guru99TestPackage.TC_HomepageTitleCheck -->
+      <class name="Guru99TestPackage.TC_LoginpageTitleCheck">
+        <test-method is-config="true" signature="initTest()[pri:0, instance:Guru99TestPackage.TC_LoginpageTitleCheck@6973bf95]" started-at="2024-10-08T00:19:55 IST" name="initTest" finished-at="2024-10-08T00:19:57 IST" duration-ms="1745" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initTest -->
+        <test-method signature="TC_1_LoginPageTitleCheck()[pri:0, instance:Guru99TestPackage.TC_LoginpageTitleCheck@6973bf95]" started-at="2024-10-08T00:19:57 IST" name="TC_1_LoginPageTitleCheck" finished-at="2024-10-08T00:20:00 IST" duration-ms="2703" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_1_LoginPageTitleCheck -->
+        <test-method is-config="true" signature="cleanUpTest()[pri:0, instance:Guru99TestPackage.TC_LoginpageTitleCheck@6973bf95]" started-at="2024-10-08T00:20:00 IST" name="cleanUpTest" finished-at="2024-10-08T00:20:00 IST" duration-ms="99" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUpTest -->
+      </class> <!-- Guru99TestPackage.TC_LoginpageTitleCheck -->
+      <class name="Guru99TestPackage.TC_HomepageUIValidation">
+        <test-method is-config="true" signature="initTest()[pri:0, instance:Guru99TestPackage.TC_HomepageUIValidation@6ce139a4]" started-at="2024-10-08T00:19:47 IST" name="initTest" finished-at="2024-10-08T00:19:54 IST" duration-ms="6579" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initTest -->
+        <test-method signature="TC_5_HomePageUICheck()[pri:0, instance:Guru99TestPackage.TC_HomepageUIValidation@6ce139a4]" started-at="2024-10-08T00:19:54 IST" name="TC_5_HomePageUICheck" finished-at="2024-10-08T00:19:55 IST" duration-ms="1379" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_5_HomePageUICheck -->
+        <test-method is-config="true" signature="cleanUpTest()[pri:0, instance:Guru99TestPackage.TC_HomepageUIValidation@6ce139a4]" started-at="2024-10-08T00:19:55 IST" name="cleanUpTest" finished-at="2024-10-08T00:19:55 IST" duration-ms="87" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUpTest -->
+      </class> <!-- Guru99TestPackage.TC_HomepageUIValidation -->
+      <class name="Guru99TestPackage.TC_LoginpageLoginFunctionality">
+        <test-method is-config="true" signature="initTest()[pri:0, instance:Guru99TestPackage.TC_LoginpageLoginFunctionality@22635ba0]" started-at="2024-10-08T00:19:36 IST" name="initTest" finished-at="2024-10-08T00:19:39 IST" duration-ms="3212" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initTest -->
+        <test-method signature="TC_3_LoginPageLoginFuncionality()[pri:0, instance:Guru99TestPackage.TC_LoginpageLoginFunctionality@22635ba0]" started-at="2024-10-08T00:19:39 IST" name="TC_3_LoginPageLoginFuncionality" finished-at="2024-10-08T00:19:42 IST" duration-ms="3093" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_3_LoginPageLoginFuncionality -->
+        <test-method is-config="true" signature="cleanUpTest()[pri:0, instance:Guru99TestPackage.TC_LoginpageLoginFunctionality@22635ba0]" started-at="2024-10-08T00:19:42 IST" name="cleanUpTest" finished-at="2024-10-08T00:19:42 IST" duration-ms="100" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUpTest -->
+      </class> <!-- Guru99TestPackage.TC_LoginpageLoginFunctionality -->
+      <class name="Guru99TestPackage.TC_LoginpageUIValidation">
+        <test-method is-config="true" signature="initTest()[pri:0, instance:Guru99TestPackage.TC_LoginpageUIValidation@2ddc8ecb]" started-at="2024-10-08T00:20:00 IST" name="initTest" finished-at="2024-10-08T00:20:04 IST" duration-ms="4695" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initTest -->
+        <test-method signature="TC_2_LoginPageUICheck()[pri:0, instance:Guru99TestPackage.TC_LoginpageUIValidation@2ddc8ecb]" started-at="2024-10-08T00:20:04 IST" name="TC_2_LoginPageUICheck" finished-at="2024-10-08T00:20:04 IST" duration-ms="50" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_2_LoginPageUICheck -->
+        <test-method is-config="true" signature="cleanUpTest()[pri:0, instance:Guru99TestPackage.TC_LoginpageUIValidation@2ddc8ecb]" started-at="2024-10-08T00:20:04 IST" name="cleanUpTest" finished-at="2024-10-08T00:20:05 IST" duration-ms="87" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUpTest -->
+      </class> <!-- Guru99TestPackage.TC_LoginpageUIValidation -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
